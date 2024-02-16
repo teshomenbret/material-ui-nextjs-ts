@@ -21,6 +21,63 @@ export default function About() {
       >
         <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
           Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
+        </Typography>
+        <Typography variant="h4" component="h1" sx={{ mb: 2 }}>
+          Material UI - Next.js example in TypeScript
+          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur aliquam reprehenderit itaque qui nemo beatae rerum expedita, dolore quod quas vitae esse veritatis. Soluta ipsum, adipisci recusandae odio mollitia eius.
         </Typography>
         <Box sx={{ maxWidth: 'sm' }}>
           <Button variant="contained" component={NextLink} href="/">
